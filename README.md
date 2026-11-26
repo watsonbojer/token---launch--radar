@@ -1,8 +1,8 @@
 # Token Launch Radar
 
-[![make.fun — Build the best token launch radar](https://make.fun/api/competitions/token-radar-01/badge?owner=Watsonbojer&repo=token-launch-radar)](https://make.fun/bounty/token-radar-01)
-[![make.fun — leaderboard](https://make.fun/api/competitions/token-radar-01/badge/leaderboard?owner=Watsonbojer&repo=token-launch-radar)](https://make.fun/bounty/token-radar-01)
-[![make.fun — prize](https://make.fun/api/competitions/token-radar-01/badge/prize?owner=Watsonbojer&repo=token-launch-radar)](https://make.fun/bounty/token-radar-01)
+[![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![make.fun rank](https://make.fun/badge/token-radar-01/watsonbojer/token---launch--radar/rank.svg)](https://make.fun/bounty/token-radar-01)
+[![make.fun reward](https://make.fun/badge/token-radar-01/watsonbojer/token---launch--radar/reward.svg)](https://make.fun/bounty/token-radar-01)
 
 Entry for the make.fun bounty **[Build the best token launch radar](https://make.fun/bounty/token-radar-01)** ($1,325 total, entries close 14 Dec 2026).
 
