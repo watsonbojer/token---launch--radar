@@ -1,0 +1,775 @@
+{
+  "snapshot_date": "2026-11-25",
+  "count": 11,
+  "note": "Top 10 board rows by score, plus Extended Perps (rank 19) — its XTEN TGE is confirmed for 30 Nov 2026.",
+  "launches": [
+    {
+      "rank": 1,
+      "slug": "polymarket-international",
+      "name": "Polymarket International",
+      "category": "Prediction Market",
+      "chains": [
+        "Polygon"
+      ],
+      "tvl_usd": 321216090,
+      "tvl_change_7d_pct": 2.788931283791939,
+      "audits": 2,
+      "listed_at": "2021-10-26",
+      "score": 76.4,
+      "implied_value_usd": 144547240,
+      "implied_value_multiple": 0.45,
+      "overview": "The world's largest prediction market. Users trade shares in event outcomes (politics, sport, culture, crypto) with USDC-backed collateral; Polymarket also runs a CFTC-regulated US exchange. Its value is driven by trading volume, not locked TVL, so a TVL-multiple understates it: ICE's October 2025 investment valued the company at about $8 billion pre-investment (ICE press release / SEC 8-K, 7 Oct 2025).",
+      "token_status": "no_token_recorded",
+      "token_status_detail": "No token as of 16 Nov 2026. Polymarket's help center (updated 24 Jun 2026) says it 'has not announced plans for any airdrop or token generation event'. Its CMO said in Oct 2025 'there will be a token, there will be an airdrop'; parent Blockratize Inc. filed intent-to-use US trademarks for POLY and $POLY on 4 Feb 2026; Bloomberg reported on 13 Oct 2026 that the company is weighing a token against an IPO, with no decision. No ticker, supply, snapshot date or contract address exists.",
+      "token_status_sources": [
+        {
+          "label": "ICE press release / SEC 8-K, 7 Oct 2025 — ~$8bn valuation",
+          "url": "https://www.sec.gov/Archives/edgar/data/1571949/000094787125000890/ss5432176_ex9901.htm"
+        },
+        {
+          "label": "Status round-up, 16 Nov 2026 (quotes the help center article of 24 Jun 2026)",
+          "url": "https://blockchainreporter.net/polymarket-pre-token-airdrop-activity-strategy/"
+        },
+        {
+          "label": "Polymarket official site",
+          "url": "https://polymarket.com"
+        }
+      ],
+      "why_it_ranks": "Largest TVL on the board among prediction markets, two audits, multi-year track record, and a token that its own executives have said is coming — the single highest-value launch candidate by any measure except a TVL multiple, which understates volume-driven businesses.",
+      "farm_plan": [
+        "Trade markets on polymarket.com (Polygon; US users use the regulated US app) — sustained, genuine trading volume is what past prediction-market distributions have rewarded, and Polymarket has published no eligibility rules, so there is no shortcut to buy.",
+        "Provide liquidity where Polymarket offers it; liquidity rewards are currently paid in pUSD, its USDC-backed collateral token.",
+        "Do not buy any token calling itself POLY: Polymarket has announced no contract address, and its help center warns that claim sites are scams. The POLY ticker already belongs to an unrelated older token (Polymath).",
+        "Watch polymarket.com and its official X account only; a token, if announced, will come through official channels."
+      ],
+      "risks": [
+        "Polymarket may choose an IPO instead of a token (Bloomberg, Oct 2026) — a token is hinted, not committed.",
+        "No published snapshot or eligibility rules: farming spend may not be rewarded at all.",
+        "US regulatory exposure: the US business is a separate CFTC-regulated exchange."
+      ],
+      "evidence": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/polymarket-international",
+          "status": 403,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Website",
+          "url": "https://polymarket.com/",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Polymarket",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://certificate.quantstamp.com/full/polymarket-v-2/4a75ff5f-473f-4c96-967e-1cefdde77454/index.html",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "onre",
+      "name": "OnRe",
+      "category": "RWA",
+      "chains": [
+        "Solana"
+      ],
+      "tvl_usd": 289910272,
+      "tvl_change_7d_pct": -1.2264413244843126,
+      "audits": 2,
+      "listed_at": "2025-07-14",
+      "score": 65.7,
+      "implied_value_usd": 81174876,
+      "implied_value_multiple": 0.28,
+      "overview": "Connecting on-chain capital to real-world reinsurance risk — unlocking stable, uncorrelated returns that are liquid, composable and accessible for the first time",
+      "token_status": "no_token_recorded",
+      "token_status_detail": "No token recorded: the DefiLlama protocol record for this protocol (fetched 25 Nov 2026) lists no token address, no CoinGecko id, no CoinMarketCap id, no market cap and no symbol, and its parent protocol (where one exists) also lists no token. No token announcement was verified for this entry beyond that record — check the protocol's official X account and blog before acting.",
+      "token_status_sources": [
+        {
+          "label": "DefiLlama protocol page",
+          "url": "https://defillama.com/protocol/onre"
+        },
+        {
+          "label": "Official website",
+          "url": "https://app.onre.finance/"
+        }
+      ],
+      "why_it_ranks": "High TVL in its category with no token recorded, giving a large TVL-multiple implied launch value.",
+      "farm_plan": [
+        "Use OnRe on Solana via its official site (https://app.onre.finance/) — use the tokenised-asset products on offer.",
+        "Keep the position active over time; airdrop snapshots, where a project runs one, normally reward sustained use rather than a single transaction.",
+        "Watch the protocol's official X account and blog for any points programme, snapshot or token announcement; only trust links posted there.",
+        "Never buy a token claiming to be this protocol's until the official site or X account publishes its contract address."
+      ],
+      "risks": [
+        "No token announcement has been verified — the protocol may never launch a token.",
+        "Implied value is an estimate from a TVL multiple, not a market price; the real launch value depends on tokenomics, float and market conditions at TGE."
+      ],
+      "evidence": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/onre",
+          "status": 403,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Website",
+          "url": "https://app.onre.finance/",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/onrefinance",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://certificate.quantstamp.com/full/on-re-evm/f48932e9-5da4-4153-9512-6302cfc8c2a4/index.html",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "ember",
+      "name": "Ember",
+      "category": "RWA",
+      "chains": [
+        "Sui",
+        "Ethereum",
+        "Base",
+        "Pharos",
+        "Monad",
+        "Arbitrum",
+        "Binance"
+      ],
+      "tvl_usd": 83851471,
+      "tvl_change_7d_pct": -2.4583539957925495,
+      "audits": 2,
+      "listed_at": "2025-09-17",
+      "score": 62.4,
+      "implied_value_usd": 23478412,
+      "implied_value_multiple": 0.28,
+      "overview": "Ember originates and issues tokenized investment products, bringing funds, strategies, and real-world assets onchain.",
+      "token_status": "no_token_recorded",
+      "token_status_detail": "No token recorded: the DefiLlama protocol record for this protocol (fetched 25 Nov 2026) lists no token address, no CoinGecko id, no CoinMarketCap id, no market cap and no symbol, and its parent protocol (where one exists) also lists no token. No token announcement was verified for this entry beyond that record — check the protocol's official X account and blog before acting.",
+      "token_status_sources": [
+        {
+          "label": "DefiLlama protocol page",
+          "url": "https://defillama.com/protocol/ember"
+        },
+        {
+          "label": "Official website",
+          "url": "https://ember.so/"
+        }
+      ],
+      "why_it_ranks": "High TVL in its category with no token recorded, giving a large TVL-multiple implied launch value.",
+      "farm_plan": [
+        "Use Ember on Sui, Ethereum, Base via its official site (https://ember.so/) — use the tokenised-asset products on offer.",
+        "Keep the position active over time; airdrop snapshots, where a project runs one, normally reward sustained use rather than a single transaction.",
+        "Watch the protocol's official X account and blog for any points programme, snapshot or token announcement; only trust links posted there.",
+        "Never buy a token claiming to be this protocol's until the official site or X account publishes its contract address."
+      ],
+      "risks": [
+        "No token announcement has been verified — the protocol may never launch a token.",
+        "Implied value is an estimate from a TVL multiple, not a market price; the real launch value depends on tokenomics, float and market conditions at TGE."
+      ],
+      "evidence": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/ember",
+          "status": 403,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Website",
+          "url": "https://ember.so/",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/EmberProtocol",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://ember.so/security",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "curvance",
+      "name": "Curvance",
+      "category": "Lending",
+      "chains": [
+        "Monad"
+      ],
+      "tvl_usd": 137895820,
+      "tvl_change_7d_pct": 1.2322645850642289,
+      "audits": 2,
+      "listed_at": "2025-11-27",
+      "score": 60.7,
+      "implied_value_usd": 41368746,
+      "implied_value_multiple": 0.3,
+      "overview": "Curvance is Monad's hyper-efficient lending layer, helping users earn more yield and access simple, one-click leverage.",
+      "token_status": "no_token_recorded",
+      "token_status_detail": "No token recorded: the DefiLlama protocol record for this protocol (fetched 25 Nov 2026) lists no token address, no CoinGecko id, no CoinMarketCap id, no market cap and no symbol, and its parent protocol (where one exists) also lists no token. No token announcement was verified for this entry beyond that record — check the protocol's official X account and blog before acting.",
+      "token_status_sources": [
+        {
+          "label": "DefiLlama protocol page",
+          "url": "https://defillama.com/protocol/curvance"
+        },
+        {
+          "label": "Official website",
+          "url": "https://app.curvance.com/"
+        }
+      ],
+      "why_it_ranks": "High TVL in its category with no token recorded, giving a large TVL-multiple implied launch value.",
+      "farm_plan": [
+        "Use Curvance on Monad via its official site (https://app.curvance.com/) — supply assets and borrow against them.",
+        "Keep the position active over time; airdrop snapshots, where a project runs one, normally reward sustained use rather than a single transaction.",
+        "Watch the protocol's official X account and blog for any points programme, snapshot or token announcement; only trust links posted there.",
+        "Never buy a token claiming to be this protocol's until the official site or X account publishes its contract address."
+      ],
+      "risks": [
+        "No token announcement has been verified — the protocol may never launch a token.",
+        "Implied value is an estimate from a TVL multiple, not a market price; the real launch value depends on tokenomics, float and market conditions at TGE."
+      ],
+      "evidence": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/curvance",
+          "status": 403,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Website",
+          "url": "https://app.curvance.com/",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Curvance",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/curvance/curvance-contracts/tree/develop/contracts/audits",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "tydro",
+      "name": "Tydro",
+      "category": "Lending",
+      "chains": [
+        "Ink"
+      ],
+      "tvl_usd": 391918476,
+      "tvl_change_7d_pct": 12.919198090879974,
+      "audits": 0,
+      "listed_at": "2025-10-16",
+      "score": 59.9,
+      "implied_value_usd": 117575543,
+      "implied_value_multiple": 0.3,
+      "overview": "A lending protocol on Ink (the Kraken-backed L2), built as an Aave v3 white-label. It is the largest TVL protocol on the board with no token of its own. Users earn INK — the Ink chain token, which already trades — plus Tydro points.",
+      "token_status": "no_token_recorded",
+      "token_status_detail": "No Tydro token exists. DefiLlama lists no token for Tydro, and its rewards are paid in INK (the Ink chain's token) and points. A Tydro-native token would therefore be a separate, future event from the INK rewards already live — the board ranks the hypothetical Tydro token, not the INK already being distributed.",
+      "token_status_sources": [
+        {
+          "label": "DefiLlama protocol page",
+          "url": "https://defillama.com/protocol/tydro"
+        },
+        {
+          "label": "Tydro official site",
+          "url": "https://tydro.com/"
+        }
+      ],
+      "why_it_ranks": "Largest TVL on the board ($392m) in a category (lending) where listed peers trade at 0.2–0.4× TVL, giving the highest TVL-multiple implied value of any row — with the caveat that its rewards already flow in an existing token (INK).",
+      "farm_plan": [
+        "Supply assets and borrow on tydro.com (Ink chain) — lending activity is the core usage the protocol rewards with points.",
+        "Track the Tydro points programme and INK rewards in the app; points are the most likely basis for any future Tydro distribution.",
+        "Watch Tydro's official X account for any token or snapshot announcement; only trust links posted there.",
+        "Never buy a token claiming to be Tydro's until the official site publishes its contract address."
+      ],
+      "risks": [
+        "Rewards already flow in INK, which trades — a Tydro token may never come, and the points programme may simply keep paying INK.",
+        "TVL is concentrated on a single chain (Ink).",
+        "Tydro had a reported security incident in May 2026 that halted markets; check the current status of its markets before depositing."
+      ],
+      "evidence": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/tydro",
+          "status": 403,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Website",
+          "url": "https://tydro.com/",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/tydrohq",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "TVL source (DefiLlama adapter)",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/aaveV3.js",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "cian-yield-layer",
+      "name": "CIAN Yield Layer",
+      "category": "Yield Aggregator",
+      "chains": [
+        "Ethereum",
+        "Mantle",
+        "Arbitrum",
+        "Optimism",
+        "Base",
+        "Binance",
+        "Scroll"
+      ],
+      "tvl_usd": 256623852,
+      "tvl_change_7d_pct": -4.275746527774203,
+      "audits": 0,
+      "listed_at": "2024-11-18",
+      "score": 59.6,
+      "implied_value_usd": 56457247,
+      "implied_value_multiple": 0.22,
+      "overview": "Redistribute Yield Sources For Sustainable DeFi & Optimized APY For Your Assets",
+      "token_status": "no_token_recorded",
+      "token_status_detail": "No token recorded: the DefiLlama protocol record for this protocol (fetched 25 Nov 2026) lists no token address, no CoinGecko id, no CoinMarketCap id, no market cap and no symbol, and its parent protocol (where one exists) also lists no token. No token announcement was verified for this entry beyond that record — check the protocol's official X account and blog before acting.",
+      "token_status_sources": [
+        {
+          "label": "DefiLlama protocol page",
+          "url": "https://defillama.com/protocol/cian-yield-layer"
+        },
+        {
+          "label": "Official website",
+          "url": "https://yieldlayer.cian.app/vaults/0xB13aa2d0345b0439b064f26B82D8dCf3f508775d?chainId=1"
+        }
+      ],
+      "why_it_ranks": "High TVL in its category with no token recorded, giving a large TVL-multiple implied launch value.",
+      "farm_plan": [
+        "Use CIAN Yield Layer on Ethereum, Mantle, Arbitrum via its official site (https://yieldlayer.cian.app/vaults/0xB13aa2d0345b0439b064f26B82D8dCf3f508775d?chainId=1) — deposit into the vaults.",
+        "Keep the position active over time; airdrop snapshots, where a project runs one, normally reward sustained use rather than a single transaction.",
+        "Watch the protocol's official X account and blog for any points programme, snapshot or token announcement; only trust links posted there.",
+        "Never buy a token claiming to be this protocol's until the official site or X account publishes its contract address."
+      ],
+      "risks": [
+        "No token announcement has been verified — the protocol may never launch a token.",
+        "Implied value is an estimate from a TVL multiple, not a market price; the real launch value depends on tokenomics, float and market conditions at TGE."
+      ],
+      "evidence": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/cian-yield-layer",
+          "status": 403,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Website",
+          "url": "https://yieldlayer.cian.app/vaults/0xB13aa2d0345b0439b064f26B82D8dCf3f508775d?chainId=1",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/CIAN_protocol",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "TVL source (DefiLlama adapter)",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/cian-yl/index.js",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "bitfi-basis",
+      "name": "BitFi Basis",
+      "category": "Basis Trading",
+      "chains": [
+        "Binance",
+        "Ethereum",
+        "Pharos",
+        "Base",
+        "Bitlayer",
+        "Hemi",
+        "CORE"
+      ],
+      "tvl_usd": 205363269,
+      "tvl_change_7d_pct": -9.894869478127049,
+      "audits": 0,
+      "listed_at": "2025-02-14",
+      "score": 56.5,
+      "implied_value_usd": 45179919,
+      "implied_value_multiple": 0.22,
+      "overview": "Reliable returns with bfUSD, our yield-bearing stablecoin that fuels stability while amplifying your earnings in a dynamic ecosystem.",
+      "token_status": "no_token_recorded",
+      "token_status_detail": "No token recorded: the DefiLlama protocol record for this protocol (fetched 25 Nov 2026) lists no token address, no CoinGecko id, no CoinMarketCap id, no market cap and no symbol, and its parent protocol (where one exists) also lists no token. No token announcement was verified for this entry beyond that record — check the protocol's official X account and blog before acting.",
+      "token_status_sources": [
+        {
+          "label": "DefiLlama protocol page",
+          "url": "https://defillama.com/protocol/bitfi-basis"
+        },
+        {
+          "label": "Official website",
+          "url": "https://www.bitfi.one/"
+        }
+      ],
+      "why_it_ranks": "High TVL in its category with no token recorded, giving a large TVL-multiple implied launch value.",
+      "farm_plan": [
+        "Use BitFi Basis on Binance, Ethereum, Pharos via its official site (https://www.bitfi.one/) — use the basis / delta-neutral products on offer.",
+        "Keep the position active over time; airdrop snapshots, where a project runs one, normally reward sustained use rather than a single transaction.",
+        "Watch the protocol's official X account and blog for any points programme, snapshot or token announcement; only trust links posted there.",
+        "Never buy a token claiming to be this protocol's until the official site or X account publishes its contract address."
+      ],
+      "risks": [
+        "No token announcement has been verified — the protocol may never launch a token.",
+        "Implied value is an estimate from a TVL multiple, not a market price; the real launch value depends on tokenomics, float and market conditions at TGE."
+      ],
+      "evidence": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/bitfi-basis",
+          "status": 403,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.bitfi.one/",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Bitfi_Org",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "TVL source (DefiLlama adapter)",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/bitfi-cedefi/index.js",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "templar-lending",
+      "name": "Templar Lending",
+      "category": "Lending",
+      "chains": [
+        "Stellar",
+        "Ethereum",
+        "Bitcoin",
+        "Near",
+        "Zcash",
+        "Ripple",
+        "Solana",
+        "Flare",
+        "Doge",
+        "Cardano",
+        "Litecoin"
+      ],
+      "tvl_usd": 23394307,
+      "tvl_change_7d_pct": -12.487034518004194,
+      "audits": 2,
+      "listed_at": "2025-08-12",
+      "score": 56.5,
+      "implied_value_usd": 7018292,
+      "implied_value_multiple": 0.3,
+      "overview": "Templar is the first Cypher Lending protocol that enables borrowing stablecoins against Bitcoin, or any asset on any chain, without trusting centralized intermediaries. No wrapping, no bridging, no KYC necessary",
+      "token_status": "no_token_recorded",
+      "token_status_detail": "No token recorded: the DefiLlama protocol record for this protocol (fetched 25 Nov 2026) lists no token address, no CoinGecko id, no CoinMarketCap id, no market cap and no symbol, and its parent protocol (where one exists) also lists no token. No token announcement was verified for this entry beyond that record — check the protocol's official X account and blog before acting.",
+      "token_status_sources": [
+        {
+          "label": "DefiLlama protocol page",
+          "url": "https://defillama.com/protocol/templar-lending"
+        },
+        {
+          "label": "Official website",
+          "url": "https://www.templarfi.org/"
+        }
+      ],
+      "why_it_ranks": "High TVL in its category with no token recorded, giving a large TVL-multiple implied launch value.",
+      "farm_plan": [
+        "Use Templar Lending on Stellar, Ethereum, Bitcoin via its official site (https://www.templarfi.org/) — supply assets and borrow against them.",
+        "Keep the position active over time; airdrop snapshots, where a project runs one, normally reward sustained use rather than a single transaction.",
+        "Watch the protocol's official X account and blog for any points programme, snapshot or token announcement; only trust links posted there.",
+        "Never buy a token claiming to be this protocol's until the official site or X account publishes its contract address."
+      ],
+      "risks": [
+        "No token announcement has been verified — the protocol may never launch a token.",
+        "Implied value is an estimate from a TVL multiple, not a market price; the real launch value depends on tokenomics, float and market conditions at TGE."
+      ],
+      "evidence": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/templar-lending",
+          "status": 403,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.templarfi.org/",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/TemplarProtocol",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/Templar-Protocol/contracts/blob/dev/audits/2025-07-01/guvenkaya/Templar-NEAR-Smart-Contract-Security-Review-Final-Report.pdf",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "arrakis-modular",
+      "name": "Arrakis Modular",
+      "category": "Liquidity Manager",
+      "chains": [
+        "Ethereum",
+        "Base",
+        "Arbitrum",
+        "Plasma",
+        "Robinhood Chain",
+        "Binance"
+      ],
+      "tvl_usd": 46201719,
+      "tvl_change_7d_pct": -3.0628019022816204,
+      "audits": 2,
+      "listed_at": "2024-10-23",
+      "score": 56.2,
+      "implied_value_usd": 9240344,
+      "implied_value_multiple": 0.2,
+      "overview": "Arrakis Modular represents the next evolution of the Arrakis liquidity management smart contract framework, aiming to overcome the limitations of previous versions (V1 and V2). Arrakis Modular introduces a universal Meta Vault standard. This modular framework allows Arrakis to create entirely differ",
+      "token_status": "no_token_recorded",
+      "token_status_detail": "No token recorded: the DefiLlama protocol record for this protocol (fetched 25 Nov 2026) lists no token address, no CoinGecko id, no CoinMarketCap id, no market cap and no symbol, and its parent protocol (where one exists) also lists no token. No token announcement was verified for this entry beyond that record — check the protocol's official X account and blog before acting.",
+      "token_status_sources": [
+        {
+          "label": "DefiLlama protocol page",
+          "url": "https://defillama.com/protocol/arrakis-modular"
+        },
+        {
+          "label": "Official website",
+          "url": "https://arrakis.finance/"
+        }
+      ],
+      "why_it_ranks": "High TVL in its category with no token recorded, giving a large TVL-multiple implied launch value.",
+      "farm_plan": [
+        "Use Arrakis Modular on Ethereum, Base, Arbitrum via its official site (https://arrakis.finance/) — deposit into managed liquidity positions.",
+        "Keep the position active over time; airdrop snapshots, where a project runs one, normally reward sustained use rather than a single transaction.",
+        "Watch the protocol's official X account and blog for any points programme, snapshot or token announcement; only trust links posted there.",
+        "Never buy a token claiming to be this protocol's until the official site or X account publishes its contract address."
+      ],
+      "risks": [
+        "No token announcement has been verified — the protocol may never launch a token.",
+        "Implied value is an estimate from a TVL multiple, not a market price; the real launch value depends on tokenomics, float and market conditions at TGE."
+      ],
+      "evidence": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/arrakis-modular",
+          "status": 403,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Website",
+          "url": "https://arrakis.finance/",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/ArrakisFinance",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.arrakis.finance/audits",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "slug": "3jane-lending",
+      "name": "3Jane Lending",
+      "category": "Uncollateralized Lending",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl_usd": 106228234,
+      "tvl_change_7d_pct": -18.311104953748796,
+      "audits": 2,
+      "listed_at": "2025-09-03",
+      "score": 55.9,
+      "implied_value_usd": 29743906,
+      "implied_value_multiple": 0.28,
+      "overview": "3Jane protocol is a peer-to-pool credit-based money market enabling algorithmic, real-time uncollateralized USDC credit lines for yield farmers, traders, businesses, and/or AI agents",
+      "token_status": "no_token_recorded",
+      "token_status_detail": "No token recorded: the DefiLlama protocol record for this protocol (fetched 25 Nov 2026) lists no token address, no CoinGecko id, no CoinMarketCap id, no market cap and no symbol, and its parent protocol (where one exists) also lists no token. No token announcement was verified for this entry beyond that record — check the protocol's official X account and blog before acting.",
+      "token_status_sources": [
+        {
+          "label": "DefiLlama protocol page",
+          "url": "https://defillama.com/protocol/3jane-lending"
+        },
+        {
+          "label": "Official website",
+          "url": "https://www.3jane.xyz/"
+        }
+      ],
+      "why_it_ranks": "High TVL in its category with no token recorded, giving a large TVL-multiple implied launch value.",
+      "farm_plan": [
+        "Use 3Jane Lending on Ethereum via its official site (https://www.3jane.xyz/) — use the credit markets as a lender where permitted.",
+        "Keep the position active over time; airdrop snapshots, where a project runs one, normally reward sustained use rather than a single transaction.",
+        "Watch the protocol's official X account and blog for any points programme, snapshot or token announcement; only trust links posted there.",
+        "Never buy a token claiming to be this protocol's until the official site or X account publishes its contract address."
+      ],
+      "risks": [
+        "No token announcement has been verified — the protocol may never launch a token.",
+        "Implied value is an estimate from a TVL multiple, not a market price; the real launch value depends on tokenomics, float and market conditions at TGE."
+      ],
+      "evidence": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/3jane-lending",
+          "status": 403,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.3jane.xyz/",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/3janexyz",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.3jane.xyz/resources/audits",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "slug": "extended-perps",
+      "name": "Extended Perps",
+      "category": "Derivatives",
+      "chains": [
+        "Arc",
+        "Ethereum",
+        "Starknet"
+      ],
+      "tvl_usd": 87111338,
+      "tvl_change_7d_pct": -5.021382489058453,
+      "audits": 0,
+      "listed_at": "2025-03-11",
+      "score": 52,
+      "implied_value_usd": 27875628,
+      "implied_value_multiple": 0.32,
+      "overview": "A self-custody perpetuals DEX (formerly X10), built by ex-Revolut crypto staff. Settlement moved from Starknet to Circle's Arc chain on 22 Oct 2026. It runs a points programme (Xpoints) and its token launch is confirmed and dated — the most imminent launch on the board.",
+      "token_status": "no_token_recorded",
+      "token_status_detail": "Pre-TGE: $XTEN was unveiled on 23 Oct 2026 as the native token, with a 1,000,000,000 max supply and 30% (300m XTEN) allocated to eligible Points participants. The allocation checker opened on 11 Nov 2026. TGE is set for 30 Nov 2026; eligible users must sign the Community Distribution Terms in the Extended app by 31 Dec 2026, and users who sign before TGE receive tokens in the first transfer batch. Pre-market venues priced XTEN around $0.26 in late Oct 2026 on thin (<$1m) open interest — an indication only.",
+      "token_status_sources": [
+        {
+          "label": "TGE Index — Extended (XTEN) TGE, checked 23 Nov 2026",
+          "url": "https://tgeindex.com/tge/extended/"
+        },
+        {
+          "label": "CoinLaunch — Extended Exchange token details",
+          "url": "https://coinlaunch.space/projects/extended-exchange/"
+        }
+      ],
+      "why_it_ranks": "Not the top score — the confirmed, dated TGE (30 Nov 2026) makes it the most actionable launch on the board: the launch is a scheduled event, not a rumour, and the distribution mechanics (30% to points holders, first batch for pre-TGE signers) are published.",
+      "farm_plan": [
+        "Open the Extended app (app.extended.exchange) and sign the Community Distribution Terms before the 30 Nov 2026 TGE to be in the first transfer batch; unsigned allocations go to the Ecosystem Fund after 31 Dec 2026.",
+        "Check your XTEN allocation in the checker that opened on 11 Nov 2026 — if you farmed Xpoints, your allocation is already fixed; late trading cannot retroactively earn this distribution.",
+        "Trade perps on Extended with small, managed positions if you want exposure to future seasons; do not chase the pre-market XTEN price on thin venues.",
+        "Claim only inside the Extended app, which never asks for a seed phrase."
+      ],
+      "risks": [
+        "The points snapshot for this distribution has effectively already happened (checker open since 11 Nov 2026) — new users are likely too late for the 30% community allocation.",
+        "Pre-market pricing (~$0.26) is thin and indicative, not a launch price; the first transfer batch will include farmer selling.",
+        "Settlement chain changed in Oct 2026 (Starknet to Arc); verify which chain your funds and positions are on."
+      ],
+      "evidence": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/extended-perps",
+          "status": 403,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "Website",
+          "url": "https://app.extended.exchange/",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/extendedapp",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        },
+        {
+          "label": "TVL source (DefiLlama adapter)",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/sumTokens.js",
+          "status": 200,
+          "verified_at": "2026-11-25"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3891 @@
+{
+  "snapshot_date": "2026-11-25",
+  "source": "DefiLlama protocols API https://api.llama.fi/protocols, fetched 2026-11-25",
+  "checks": [
+    {
+      "slug": "polymarket-international",
+      "name": "Polymarket International",
+      "checked_at": "2026-11-25T16:10:09.145Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/polymarket-international",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://polymarket.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Polymarket",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://certificate.quantstamp.com/full/polymarket-v-2/4a75ff5f-473f-4c96-967e-1cefdde77454/index.html",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "onre",
+      "name": "OnRe",
+      "checked_at": "2026-11-25T16:10:09.412Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/onre",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.onre.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/onrefinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://certificate.quantstamp.com/full/on-re-evm/f48932e9-5da4-4153-9512-6302cfc8c2a4/index.html",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "tydro",
+      "name": "Tydro",
+      "checked_at": "2026-11-25T16:10:09.711Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/tydro",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://tydro.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/tydrohq",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/aaveV3.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "valos",
+      "name": "Valos",
+      "checked_at": "2026-11-25T16:10:09.759Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/valos",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://valos.io/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Valos_io",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/curators.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "bitfi-basis",
+      "name": "BitFi Basis",
+      "checked_at": "2026-11-25T16:10:09.834Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/bitfi-basis",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.bitfi.one/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Bitfi_Org",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/bitfi-cedefi/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "r25",
+      "name": "R25",
+      "checked_at": "2026-11-25T16:10:10.108Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/r25",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.r25.xyz/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/R25Official",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/r25/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "curvance",
+      "name": "Curvance",
+      "checked_at": "2026-11-25T16:10:10.119Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/curvance",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://app.curvance.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Curvance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/curvance/curvance-contracts/tree/develop/contracts/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "3jane-lending",
+      "name": "3Jane Lending",
+      "checked_at": "2026-11-25T16:10:10.274Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/3jane-lending",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.3jane.xyz/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/3janexyz",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.3jane.xyz/resources/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "cian-yield-layer",
+      "name": "CIAN Yield Layer",
+      "checked_at": "2026-11-25T16:10:10.571Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/cian-yield-layer",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://yieldlayer.cian.app/vaults/0xB13aa2d0345b0439b064f26B82D8dCf3f508775d?chainId=1",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/CIAN_protocol",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/cian-yl/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "lofty",
+      "name": "Lofty",
+      "checked_at": "2026-11-25T16:10:10.874Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/lofty",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.lofty.ai/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/lofty_ai",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/lofty/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "ember",
+      "name": "Ember",
+      "checked_at": "2026-11-25T16:10:12.168Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/ember",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://ember.so/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/EmberProtocol",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://ember.so/security",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "extended-perps",
+      "name": "Extended Perps",
+      "checked_at": "2026-11-25T16:10:12.922Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/extended-perps",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.extended.exchange/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/extendedapp",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/sumTokens.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "arcus-perps",
+      "name": "Arcus Perps",
+      "checked_at": "2026-11-25T16:10:12.943Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/arcus-perps",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://arcus.xyz/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/arcus_xyz",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/sumTokens.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "figure-markets-prime",
+      "name": "Figure Markets Prime",
+      "checked_at": "2026-11-25T16:10:12.963Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/figure-markets-prime",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.figure.com/crypto-backed-loan/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/figuremarkets",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/figure-markets-democratized-prime/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "shift-defi",
+      "name": "Shift DeFi",
+      "checked_at": "2026-11-25T16:10:13.119Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/shift-defi",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://shiftdefi.com/",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Shift_DeFi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/ShiftDeFi/shift-defi-platform/blob/3fb8495b364376d5c6b9b430949517fb923781d5/audits/ABDK_ShiftDeFi_ShiftDeFiPlatform_v_1_0.pdf",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "tori-finance",
+      "name": "Tori Finance",
+      "checked_at": "2026-11-25T16:10:13.534Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/tori-finance",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://tori.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/tori_finance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.tori.finance/security/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "axis",
+      "name": "Axis",
+      "checked_at": "2026-11-25T16:10:13.931Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/axis",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://axis.to/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/AxisFDN",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://www.openzeppelin.com/news/axis-coordinate-v2-contracts-audit",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "current",
+      "name": "Current",
+      "checked_at": "2026-11-25T16:10:14.040Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/current",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.current.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/CurrentSUI",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://current-finance.gitbook.io/current/security-and-risk/audit-reports",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "loopscale-lending",
+      "name": "Loopscale Lending",
+      "checked_at": "2026-11-25T16:10:14.506Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/loopscale-lending",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://loop.sl/",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Loopscale",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/oshieldio/Publications/blob/main/Loopscale/loopscale-v1.md",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "yuzu-money",
+      "name": "Yuzu Money",
+      "checked_at": "2026-11-25T16:10:14.532Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/yuzu-money",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.yuzu.money/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/YuzuMoneyX",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://yuzu-money.gitbook.io/yuzu-money/security-infrastructure/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "firelight",
+      "name": "Firelight",
+      "checked_at": "2026-11-25T16:10:15.057Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/firelight",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://firelight.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Firelightfi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/firelight-protocol/firelight-core/tree/main/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "arrakis-modular",
+      "name": "Arrakis Modular",
+      "checked_at": "2026-11-25T16:10:15.927Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/arrakis-modular",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://arrakis.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/ArrakisFinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.arrakis.finance/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "exponent-yield-exchange",
+      "name": "Exponent Yield Exchange",
+      "checked_at": "2026-11-25T16:10:15.937Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/exponent-yield-exchange",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.exponent.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/ExponentFinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.exponent.finance/user-documentation/audits-bug-bounty",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "nado-spot",
+      "name": "Nado Spot",
+      "checked_at": "2026-11-25T16:10:16.006Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/nado-spot",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.nado.xyz/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/nadohq",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/sumTokens.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "flux-finance",
+      "name": "Flux Finance",
+      "checked_at": "2026-11-25T16:10:16.013Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/flux-finance",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://fluxfinance.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/FluxDeFi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/compound.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "rysk-v12",
+      "name": "Rysk V12",
+      "checked_at": "2026-11-25T16:10:17.068Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/rysk-v12",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.rysk.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/ryskfinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/sumTokens.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "project-0",
+      "name": "Project 0",
+      "checked_at": "2026-11-25T16:10:17.077Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/project-0",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.0.xyz/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/project0",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/p0/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "bdex-v3",
+      "name": "BDEX V3",
+      "checked_at": "2026-11-25T16:10:18.261Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/bdex-v3",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://dex.botchain.ai/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/BOTChain_ai",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/uniswapV3.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "metric-v1",
+      "name": "Metric V1",
+      "checked_at": "2026-11-25T16:10:18.469Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/metric-v1",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.metric.xyz/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Metricxyz",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/metric-v1/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "3f",
+      "name": "3F",
+      "checked_at": "2026-11-25T16:10:18.583Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/3f",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.3f.xyz/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/3f_xyz",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/3FLabs",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "project-x",
+      "name": "Project X",
+      "checked_at": "2026-11-25T16:10:19.073Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/project-x",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.prjx.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/prjx_hl",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/uniswapV3.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "anemoy-capital",
+      "name": "Anemoy Capital",
+      "checked_at": "2026-11-25T16:10:19.325Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/anemoy-capital",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.anemoy.io/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/anemoycapital",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/anemoy-capital/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "mystic-finance-lending",
+      "name": "Mystic Finance Lending",
+      "checked_at": "2026-11-25T16:10:19.335Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/mystic-finance-lending",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.mysticfinance.xyz/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/mystic_finance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/mystic-finance/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "manta-cedefi",
+      "name": "Manta CeDeFi",
+      "checked_at": "2026-11-25T16:10:19.648Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/manta-cedefi",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://cedefi.manta.network/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/MantaNetwork",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/manta-cedefi/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "decibel",
+      "name": "Decibel",
+      "checked_at": "2026-11-25T16:10:19.757Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/decibel",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.decibel.trade/trade",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/DecibelTrade",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/decibel/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "liminal-basis",
+      "name": "Liminal Basis",
+      "checked_at": "2026-11-25T16:10:21.429Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/liminal-basis",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://liminal.money/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/liminalmoney",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.liminal.money/more/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "templar-lending",
+      "name": "Templar Lending",
+      "checked_at": "2026-11-25T16:10:21.624Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/templar-lending",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.templarfi.org/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/TemplarProtocol",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/Templar-Protocol/contracts/blob/dev/audits/2025-07-01/guvenkaya/Templar-NEAR-Smart-Contract-Security-Review-Final-Report.pdf",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "risex",
+      "name": "RISEx",
+      "checked_at": "2026-11-25T16:10:22.391Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/risex",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.rise.trade/en",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/risextrade",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/risex/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "bucket-protocol-v2",
+      "name": "Bucket Protocol V2",
+      "checked_at": "2026-11-25T16:10:22.392Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/bucket-protocol-v2",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://bucketprotocol.io/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/bucket_protocol",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/bucket-protocol-v2/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "zoo-finance",
+      "name": "Zoo Finance",
+      "checked_at": "2026-11-25T16:10:23.051Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/zoo-finance",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://zoofi.io/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/ZooFinanceIO",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/zoofi-io/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "40-acres",
+      "name": "40 Acres",
+      "checked_at": "2026-11-25T16:10:23.318Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/40-acres",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.40acres.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/40acres_Finance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://40acres.gitbook.io/40acres/technical-docs/smart-contracts#audit-report",
+          "status": 404,
+          "live": false,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "vfat.io",
+      "name": "vfat.io",
+      "checked_at": "2026-11-25T16:10:23.627Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/vfat.io",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://vfat.io/yield",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/vfat_io",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://reports.yaudit.dev/reports/06-2023-Sickle/",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "phoenix-perp",
+      "name": "Phoenix Perp",
+      "checked_at": "2026-11-25T16:10:23.914Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/phoenix-perp",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://phoenix.trade/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/PhoenixTrade",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/phoenix-perp/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "lulo",
+      "name": "Lulo",
+      "checked_at": "2026-11-25T16:10:24.135Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/lulo",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://lulo.fi/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/uselulo",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.lulo.fi/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "exponent-risk-tranching",
+      "name": "Exponent Risk Tranching",
+      "checked_at": "2026-11-25T16:10:24.838Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/exponent-risk-tranching",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.exponent.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/ExponentFinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.exponent.finance/user-documentation/audits-bug-bounty",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "fira",
+      "name": "Fira",
+      "checked_at": "2026-11-25T16:10:24.902Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/fira",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.fira.money/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Fira_Lend",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.fira.money/resources-and-ecosystem/contracts-and-audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "defindex",
+      "name": "DeFindex",
+      "checked_at": "2026-11-25T16:10:24.954Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/defindex",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.defindex.io/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/defindex_",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.defindex.io/advanced-documentation/risks-and-audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "hyperbeat-earn",
+      "name": "Hyperbeat Earn",
+      "checked_at": "2026-11-25T16:10:25.516Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/hyperbeat-earn",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.hyperbeat.org/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/0xhyperbeat",
+          "status": 404,
+          "live": false,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/hyperbeat/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "nuva",
+      "name": "NUVA",
+      "checked_at": "2026-11-25T16:10:25.968Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/nuva",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://nuva.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/nuvafinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://nuva.finance/docs/security-audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "native-credit-pool",
+      "name": "Native Credit Pool",
+      "checked_at": "2026-11-25T16:10:26.128Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/native-credit-pool",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://native.org/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/native_fi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/native-lend/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "felix-cdp",
+      "name": "Felix CDP",
+      "checked_at": "2026-11-25T16:10:26.150Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/felix-cdp",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.usefelix.xyz/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/felixprotocol",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://usefelix.gitbook.io/felix-docs/advanced/smart-contract-audits#felix-audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "rocksolid-network",
+      "name": "RockSolid Network",
+      "checked_at": "2026-11-25T16:10:26.641Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/rocksolid-network",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://rocksolid.network/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/rocksolidhq",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/erc4626.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "strata-markets",
+      "name": "Strata Markets",
+      "checked_at": "2026-11-25T16:10:27.515Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/strata-markets",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://strata.markets/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/strata_markets",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.strata.markets/technical-documentation/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "paimon",
+      "name": "Paimon",
+      "checked_at": "2026-11-25T16:10:28.326Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/paimon",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://paimon.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Paimon_Finance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/Paimon-R-D/paimon-gitbook/blob/main/.gitbook/assets/audit-report-2026-01.pdf",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "syntropia",
+      "name": "Syntropia",
+      "checked_at": "2026-11-25T16:10:28.480Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/syntropia",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://syntropia.ai/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/syntropia_ai",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/syntropia/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "vesu",
+      "name": "Vesu",
+      "checked_at": "2026-11-25T16:10:28.571Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/vesu",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.vesu.xyz/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/vesuxyz",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/vesuxyz",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "steer-protocol",
+      "name": "Steer Protocol",
+      "checked_at": "2026-11-25T16:10:28.751Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/steer-protocol",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.steer.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/steerprotocol",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.steer.finance/audit-reports",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "superearn",
+      "name": "SuperEarn",
+      "checked_at": "2026-11-25T16:10:29.485Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/superearn",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://superearn.io/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/SuperEarnX",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/kaia-superEarn/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "strato-cdp",
+      "name": "STRATO CDP",
+      "checked_at": "2026-11-25T16:10:30.467Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/strato-cdp",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.strato.nexus/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/strato_net",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/strato/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "reya-perps",
+      "name": "Reya Perps",
+      "checked_at": "2026-11-25T16:10:31.081Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/reya-perps",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://app.reya.xyz/",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/reya_xyz",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.reya.xyz/technical-docs/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "growihf",
+      "name": "GrowiHF",
+      "checked_at": "2026-11-25T16:10:31.225Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/growihf",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://hf.growi.fi/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/GrowiFinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/Growi-DeFi",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "thedeep",
+      "name": "TheDeep",
+      "checked_at": "2026-11-25T16:10:31.569Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/thedeep",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.thedeep.ink/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/TheDeep_xyz",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/thedeep/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "snuggle",
+      "name": "Snuggle",
+      "checked_at": "2026-11-25T16:10:32.124Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/snuggle",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://snuggle.fi/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/SnuggleFi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://d3cny4im7ppv5.cloudfront.net/Abyss.pdf",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "yieldfi",
+      "name": "YieldFi",
+      "checked_at": "2026-11-25T16:10:32.927Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/yieldfi",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://yield.fi/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/getyieldfi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.yield.fi/resources/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "bend",
+      "name": "BEND",
+      "checked_at": "2026-11-25T16:10:33.252Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/bend",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://bend.berachain.com/",
+          "status": 429,
+          "live": false,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/berachain",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/berachain/security-audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "antarctic",
+      "name": "Antarctic",
+      "checked_at": "2026-11-25T16:10:33.350Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/antarctic",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.antarctic.exchange/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Antarctic_EX",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/axlp/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "binaryx-platform",
+      "name": "Binaryx Platform",
+      "checked_at": "2026-11-25T16:10:33.597Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/binaryx-platform",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.binaryx.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/BinaryxPlatform",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://blaize.tech/clients/smart-contract-security-audit-for-binaryx",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "manifest-trade",
+      "name": "Manifest Trade",
+      "checked_at": "2026-11-25T16:10:33.900Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/manifest-trade",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://manifest.trade/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/ManifestTrade",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/manifest-trade/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "predict-fun",
+      "name": "Predict Fun",
+      "checked_at": "2026-11-25T16:10:34.986Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/predict-fun",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://predict.fun/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/predictdotfun",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/sumTokens.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "bima-cdp",
+      "name": "BIMA CDP",
+      "checked_at": "2026-11-25T16:10:35.144Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/bima-cdp",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://bima.money/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/BimaBTC",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/bima-labs-cdp/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "agni-finance",
+      "name": "Agni Finance",
+      "checked_at": "2026-11-25T16:10:35.248Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/agni-finance",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://agni.finance/",
+          "status": null,
+          "live": false,
+          "error": "AbortError"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Agnidex",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/uniswapV3.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "bulbaswap-v3",
+      "name": "BulbaSwap V3",
+      "checked_at": "2026-11-25T16:10:35.739Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/bulbaswap-v3",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://bulbaswap.io/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/BulbaSwap",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/uniswapV3.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "icarus-cl",
+      "name": "Icarus CL",
+      "checked_at": "2026-11-25T16:10:36.390Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/icarus-cl",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://icarus.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Icarus_Fi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/uniswapV2.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "monolith-market",
+      "name": "Monolith Market",
+      "checked_at": "2026-11-25T16:10:36.743Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/monolith-market",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://monolith.market/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/MonolithMarket",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/MonolithMarket",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "defa-by-invoicemate",
+      "name": "Defa By InvoiceMate",
+      "checked_at": "2026-11-25T16:10:37.153Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/defa-by-invoicemate",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://imdefa.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/defaprimitive",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/defa/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "byreal",
+      "name": "Byreal",
+      "checked_at": "2026-11-25T16:10:37.231Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/byreal",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.byreal.io/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/byreal_io",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/byreal/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "fluxion-network",
+      "name": "Fluxion Network",
+      "checked_at": "2026-11-25T16:10:37.290Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/fluxion-network",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.fluxion.network/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Fluxion_dex",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/exvulsec/auditreport/blob/main/Smartcontract/Fluxion%20Smart%20Contract%20Audit%20Report-Exvul.pdf",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "syncswap",
+      "name": "SyncSwap",
+      "checked_at": "2026-11-25T16:10:37.814Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/syncswap",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://syncswap.xyz/",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/syncswap",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/syncswap/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "mezzanine",
+      "name": "Mezzanine",
+      "checked_at": "2026-11-25T16:10:38.252Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/mezzanine",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://mezz.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/mezzanine_fi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.mezz.finance/security-and-operational-controls/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "bulk",
+      "name": "BULK",
+      "checked_at": "2026-11-25T16:10:38.430Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/bulk",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.bulk.trade/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/bulktrade",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/sumTokens.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "stablehodl",
+      "name": "StableHodl",
+      "checked_at": "2026-11-25T16:10:38.651Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/stablehodl",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://stablehodl.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/StableHodl",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/stablehodl/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "metalx-swap",
+      "name": "MetalX Swap",
+      "checked_at": "2026-11-25T16:10:39.449Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/metalx-swap",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.metalx.com/swap",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/MetalXApp",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://drive.google.com/file/d/1sSr8DKzdHO4aV6Xeh3JaNuAkvH7Yxuqr/view?usp=sharing",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "temple",
+      "name": "Temple",
+      "checked_at": "2026-11-25T16:10:40.356Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/temple",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://templedigitalgroup.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/temple_ny",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/temple/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "royco-v2",
+      "name": "Royco V2",
+      "checked_at": "2026-11-25T16:10:40.525Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/royco-v2",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.royco.org/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/roycoprotocol",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/royco-v2/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "vena-finance",
+      "name": "Vena Finance",
+      "checked_at": "2026-11-25T16:10:40.560Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/vena-finance",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://vena.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/venafinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/aaveV3.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "aftermath-aflp",
+      "name": "Aftermath afLP",
+      "checked_at": "2026-11-25T16:10:41.135Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/aftermath-aflp",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://aftermath.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/AftermathFi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/aftermath-fi-aflp/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "eva-markets",
+      "name": "eva Markets",
+      "checked_at": "2026-11-25T16:10:41.398Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/eva-markets",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.eva.markets/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/eva_markets",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.flyingtulip.com/risks/",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "metalx-dex",
+      "name": "MetalX Dex",
+      "checked_at": "2026-11-25T16:10:41.461Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/metalx-dex",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://app.metalx.com/dex",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/MetalXApp",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/proton-dex/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "potatoswap-v2",
+      "name": "PotatoSwap V2",
+      "checked_at": "2026-11-25T16:10:41.759Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/potatoswap-v2",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://potatoswap.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/PotatoSwap_Fi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/uniswapV2.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "revert-lend",
+      "name": "Revert Lend",
+      "checked_at": "2026-11-25T16:10:42.393Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/revert-lend",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://revert.finance/#/ref/w6vno3",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/revertfinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.revert.finance/revert/resources/security#revert-lend-v3utils-v1.1-auto-compound-auto-exit-and-auto-range-v3",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "quarry",
+      "name": "Quarry",
+      "checked_at": "2026-11-25T16:10:43.972Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/quarry",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://quarry.so/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/quarryprotocol",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/QuarryProtocol",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "dooar-v2",
+      "name": "DOOAR V2",
+      "checked_at": "2026-11-25T16:10:44.204Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/dooar-v2",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://beta.dooar.com/swap",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Dooarofficial",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/dooar/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "vectis-finance",
+      "name": "Vectis Finance",
+      "checked_at": "2026-11-25T16:10:44.344Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/vectis-finance",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://vectis.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/vectis_finance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/vectis/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "hertzflow",
+      "name": "HertzFlow",
+      "checked_at": "2026-11-25T16:10:44.471Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/hertzflow",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.hertzflow.xyz/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/Hertzflow_xyz",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://219277942-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhOhbsStDwzyOGMriEWAP%2Fuploads%2FB7m5dRF5hSpAGXOaW1X9%2Fblocksec_hertzflow_perp_contracts_signed_20260715.pdf?alt=media&token=6886fba4-79d9-4afb-9f75-85afbc5dc338",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "kamui-finance",
+      "name": "Kamui Finance",
+      "checked_at": "2026-11-25T16:10:44.596Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/kamui-finance",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://kamui.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/KamuiFinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/curators.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "wildcat-protocol",
+      "name": "Wildcat Protocol",
+      "checked_at": "2026-11-25T16:10:44.974Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/wildcat-protocol",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://wildcat.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/WildcatFi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/wildcat-finance",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "dano-finance",
+      "name": "Dano Finance",
+      "checked_at": "2026-11-25T16:10:45.248Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/dano-finance",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://dano.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/DanoFinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.danogo.io/introduction/audit-report",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "turboflow-perps",
+      "name": "TurboFlow Perps",
+      "checked_at": "2026-11-25T16:10:45.361Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/turboflow-perps",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.tf.xyz/",
+          "status": null,
+          "live": false,
+          "error": "AbortError"
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/TurboFlow_xyz",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://beosin.com/audits/Turboflow_202510271213.pdf",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "nawa-protocol",
+      "name": "Nawa Protocol",
+      "checked_at": "2026-11-25T16:10:45.540Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/nawa-protocol",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://nawa.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/nawafinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://www.nawa.finance/audits/Nawa_Audit.pdf",
+          "status": 404,
+          "live": false,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "accountable",
+      "name": "Accountable",
+      "checked_at": "2026-11-25T16:10:45.919Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/accountable",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://accountable.capital/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/AccountableData",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.accountable.capital/accountable-documentation/vault-as-a-service/audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "capyfi",
+      "name": "Capyfi",
+      "checked_at": "2026-11-25T16:10:46.885Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/capyfi",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://capyfi.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/CapyFi_Protocol",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/compound.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "bumpin-trade",
+      "name": "Bumpin Trade",
+      "checked_at": "2026-11-25T16:10:47.179Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/bumpin-trade",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.bumpin.trade/",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/BumpinTrade",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://skynet.certik.com/projects/bumpin-trade",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "more-markets",
+      "name": "MORE Markets",
+      "checked_at": "2026-11-25T16:10:47.536Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/more-markets",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.more.markets/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/MORE_DeFi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/more-markets/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "hypurrfi-pooled",
+      "name": "HypurrFi Pooled",
+      "checked_at": "2026-11-25T16:10:48.607Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/hypurrfi-pooled",
+          "status": null,
+          "live": false,
+          "error": "UND_ERR_SOCKET"
+        },
+        {
+          "label": "Website",
+          "url": "https://hypurrfi.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/hypurrfi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.hypurr.fi/introduction/security",
+          "status": 404,
+          "live": false,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "troves",
+      "name": "Troves",
+      "checked_at": "2026-11-25T16:10:48.687Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/troves",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://www.troves.fi/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/trovesfi",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/trovesfi",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "toros",
+      "name": "Toros",
+      "checked_at": "2026-11-25T16:10:49.185Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/toros",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://toros.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/torosfinance",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.dhedge.org/security/audits-timeline",
+          "status": 404,
+          "live": false,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "evedex",
+      "name": "Evedex",
+      "checked_at": "2026-11-25T16:10:49.214Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/evedex",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://invite.evedex.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/EVEDEX",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/registries/sumTokens.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "alphax",
+      "name": "AlphaX",
+      "checked_at": "2026-11-25T16:10:49.244Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/alphax",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://alphax.com/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/AlphaX_DEX",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/AlphaX-Protocol/AlphaX-Protocol-Contract/blob/master/Audit-Report/AlphaX%20Audit%20final.pdf",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "termfinance-lend",
+      "name": "TermFinance Lend",
+      "checked_at": "2026-11-25T16:10:49.661Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/termfinance-lend",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://term.finance/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/term_labs",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.term.finance/security-audits/sigma-prime",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "kuma-protocol",
+      "name": "KUMA Protocol",
+      "checked_at": "2026-11-25T16:10:50.019Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/kuma-protocol",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://kuma.bond/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/kumaprotocol",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://docs.kuma.bond/kuma-protocol/ressources/security-and-audits",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    },
+    {
+      "slug": "meld-gold",
+      "name": "Meld Gold",
+      "checked_at": "2026-11-25T16:10:50.787Z",
+      "results": [
+        {
+          "label": "DefiLlama",
+          "url": "https://defillama.com/protocol/meld-gold",
+          "status": 403,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Website",
+          "url": "https://meld.gold/",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "X (Twitter)",
+          "url": "https://x.com/meldgold",
+          "status": 200,
+          "live": true,
+          "error": null
+        },
+        {
+          "label": "Audit / source",
+          "url": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/meld-gold/index.js",
+          "status": 200,
+          "live": true,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

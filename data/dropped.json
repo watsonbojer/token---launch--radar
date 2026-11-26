@@ -1,0 +1,192 @@
+[
+  {
+    "slug": "40-acres",
+    "name": "40 Acres",
+    "dead": [
+      {
+        "label": "Audit / source",
+        "url": "https://40acres.gitbook.io/40acres/technical-docs/smart-contracts#audit-report",
+        "status": 404,
+        "error": null
+      }
+    ],
+    "recheck": [
+      {
+        "label": "Audit / source",
+        "url": "https://40acres.gitbook.io/40acres/technical-docs/smart-contracts#audit-report",
+        "status": 404,
+        "live": false,
+        "error": null,
+        "rechecked": true
+      }
+    ]
+  },
+  {
+    "slug": "hyperbeat-earn",
+    "name": "Hyperbeat Earn",
+    "dead": [
+      {
+        "label": "X (Twitter)",
+        "url": "https://x.com/0xhyperbeat",
+        "status": 404,
+        "error": null
+      }
+    ],
+    "recheck": [
+      {
+        "label": "X (Twitter)",
+        "url": "https://x.com/0xhyperbeat",
+        "status": 404,
+        "live": false,
+        "error": null,
+        "rechecked": true
+      }
+    ]
+  },
+  {
+    "slug": "reya-perps",
+    "name": "Reya Perps",
+    "dead": [
+      {
+        "label": "DefiLlama",
+        "url": "https://defillama.com/protocol/reya-perps",
+        "status": null,
+        "error": "UND_ERR_SOCKET"
+      }
+    ],
+    "recheck": [
+      {
+        "label": "DefiLlama",
+        "url": "https://defillama.com/protocol/reya-perps",
+        "status": null,
+        "live": false,
+        "error": "UND_ERR_SOCKET",
+        "rechecked": true
+      }
+    ]
+  },
+  {
+    "slug": "bend",
+    "name": "BEND",
+    "dead": [
+      {
+        "label": "Website",
+        "url": "https://bend.berachain.com/",
+        "status": 429,
+        "error": null
+      }
+    ],
+    "recheck": [
+      {
+        "label": "Website",
+        "url": "https://bend.berachain.com/",
+        "status": 429,
+        "live": false,
+        "error": null,
+        "rechecked": true
+      }
+    ]
+  },
+  {
+    "slug": "agni-finance",
+    "name": "Agni Finance",
+    "dead": [
+      {
+        "label": "Website",
+        "url": "https://agni.finance/",
+        "status": null,
+        "error": "AbortError"
+      }
+    ],
+    "recheck": [
+      {
+        "label": "Website",
+        "url": "https://agni.finance/",
+        "status": 504,
+        "live": false,
+        "error": null,
+        "rechecked": true
+      }
+    ]
+  },
+  {
+    "slug": "nawa-protocol",
+    "name": "Nawa Protocol",
+    "dead": [
+      {
+        "label": "Audit / source",
+        "url": "https://www.nawa.finance/audits/Nawa_Audit.pdf",
+        "status": 404,
+        "error": null
+      }
+    ],
+    "recheck": [
+      {
+        "label": "Audit / source",
+        "url": "https://www.nawa.finance/audits/Nawa_Audit.pdf",
+        "status": 404,
+        "live": false,
+        "error": null,
+        "rechecked": true
+      }
+    ]
+  },
+  {
+    "slug": "hypurrfi-pooled",
+    "name": "HypurrFi Pooled",
+    "dead": [
+      {
+        "label": "DefiLlama",
+        "url": "https://defillama.com/protocol/hypurrfi-pooled",
+        "status": null,
+        "error": "UND_ERR_SOCKET"
+      },
+      {
+        "label": "Audit / source",
+        "url": "https://docs.hypurr.fi/introduction/security",
+        "status": 404,
+        "error": null
+      }
+    ],
+    "recheck": [
+      {
+        "label": "DefiLlama",
+        "url": "https://defillama.com/protocol/hypurrfi-pooled",
+        "status": 403,
+        "live": true,
+        "error": null,
+        "rechecked": true
+      },
+      {
+        "label": "Audit / source",
+        "url": "https://docs.hypurr.fi/introduction/security",
+        "status": 404,
+        "live": false,
+        "error": null,
+        "rechecked": true
+      }
+    ]
+  },
+  {
+    "slug": "toros",
+    "name": "Toros",
+    "dead": [
+      {
+        "label": "Audit / source",
+        "url": "https://docs.dhedge.org/security/audits-timeline",
+        "status": 404,
+        "error": null
+      }
+    ],
+    "recheck": [
+      {
+        "label": "Audit / source",
+        "url": "https://docs.dhedge.org/security/audits-timeline",
+        "status": 404,
+        "live": false,
+        "error": null,
+        "rechecked": true
+      }
+    ]
+  }
+]
